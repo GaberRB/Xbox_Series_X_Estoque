@@ -14,7 +14,7 @@ Vale ressaltar que a integração apenas funciona com o gmail e com sua configur
 você pode conferir como fazer neste link: [https://support.google.com/accounts/answer/6010255](https://support.google.com/accounts/answer/6010255)
 
 
-*Estou deixando o aplicativo exe para download.*
+*[Estou deixando o aplicativo exe para download](https://github.com/GaberRB/Xbox_Series_X_Estoque/raw/main/dist.zip).*
 
 **Bibliotecas utilizadas :**
 
