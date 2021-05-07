@@ -5,11 +5,11 @@
 **
 
 
-Aplicativo utilizar Selenium para automatizar a pagina da web : [https://www.xbox.com/pt-BR/consoles/xbox-series-x#purchase](https://www.xbox.com/pt-BR/consoles/xbox-series-x#purchase)
+Aplicativo utiliza Selenium para automatizar a pagina da web : [https://www.xbox.com/pt-BR/consoles/xbox-series-x#purchase](https://www.xbox.com/pt-BR/consoles/xbox-series-x#purchase)
 
-buscando os preços e disponibilidades do Xbox Series X e envia para o e-mail cadastrado.
+buscando os preços e disponibilidade do Xbox Series X e envia para o e-mail cadastrado.
 
-Vale ressaltar que a integração apenas funciona com o gmail e com sua configuração para permitir envio de e-mail por app
+Vale ressaltar que a integração apenas funciona com o gmail e com sua configuração para permitir envio de e-mail por app e apenas com o navegador chrome
 
 você pode conferir como fazer neste link: [https://support.google.com/accounts/answer/6010255](https://support.google.com/accounts/answer/6010255)
 
